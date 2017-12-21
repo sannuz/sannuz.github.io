@@ -1,44 +1,13 @@
 ---
 layout: post
 title:  "Primer post"
-date:   2017-11-26 18:23:00
+date:   2017-12-20 00:43:00
 tags: general
 ---
 
-prueba de primer post
+Hola Mundo...
 
-You can use the [editor on GitHub](https://github.com/sannuz/sannuz.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Es tal vez lo único que me quedo muy grabado de mis pasos por la carrera de informática y que no terminé, pues de verdad estaba cansado de estudiar.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Pero me sirve ese Hola Mundo para dar inicio a este rincón donde escribiré un poco de las cosas que he considerado importantes sobre ese mundo al que saludo y en el que precisamente me desenvuelvo día a día.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sannuz/sannuz.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
