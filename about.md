@@ -3,7 +3,7 @@ layout: page
 title: Acerca de mi
 permalink: /acerca/
 ---
-Padre de dos hermosos hijos y esposo de una hermosa mujer que me ha hecho ser lo que hoy soy
+Padre de dos hermosos hijos y esposo de una hermosa mujer que me ha hecho ser lo que hoy soy.
 
 Socio y fundador de IA Solutions, empresa detras de FEBOS, una solcuión de intercambio electrónico de documentos tributarios y no tributarios.
 
